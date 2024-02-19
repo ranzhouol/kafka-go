@@ -1,0 +1,4 @@
+kafka:
+  address: "localhost:19092"
+  topic: "test1"
+  partition: 0
